@@ -50,6 +50,13 @@ System.out.println(bonus);
     
 }
 
+// static final int SENIOR_EMPLOYEE_YEARS = 5;
+// static final int EXPERIENCE_BONUS = 5000;
+// static final int MINIMUM_RATING = 3;
+
+// static final int HIGH_SALARY_LIMIT = 70000;
+// static final int MEDIUM_SALARY_LIMIT = 30000;
+
 // Review:
 // Code review as if this were production code.
 
