@@ -17,3 +17,6 @@ coverage/
 
 # Screenshots
 __screenshots__/
+
+# Java compiled files
+*.class
