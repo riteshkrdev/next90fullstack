@@ -1,3 +1,4 @@
+
 public class Practice3006 {
     public static void main(String arr[]){
         Car car1 = new Car();
