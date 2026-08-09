@@ -1,3 +1,4 @@
+
 public class Practice2906 {
     public static void main (String a[]){
         int intialAmount = 25_000;
